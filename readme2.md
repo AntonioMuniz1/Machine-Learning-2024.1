@@ -8,7 +8,7 @@ Em minha opinião, o compartilhamento de modelos em Aprendizado de Máquina é u
 
 Introdução: A qualidade dos dados de treinamento é fundamental para os sistemas de Aprendizado de Máquina (AM). Esses dados são a base sobre a qual os modelos são construídos e treinados, e sua relevância e representatividade têm um impacto direto na precisão e eficácia dos modelos resultantes.
 
-10 Pontos Chave:
+Pontos Chave:
 a. Técnicas de Amostragem: A seleção adequada de amostras de dados é crucial para garantir que o conjunto de treinamento seja representativo da população subjacente.
 b. Rotulagem: A rotulagem precisa dos dados é essencial para fornecer informações aos modelos de ML sobre as características e padrões que devem aprender.
 c. Desbalanceamento de Classes: Quando há uma distribuição desigual entre as classes de interesse, técnicas especiais devem ser aplicadas para evitar viés e garantir que o modelo aprenda de maneira equilibrada.
